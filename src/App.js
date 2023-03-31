@@ -35,7 +35,7 @@ function Header() {
         </div>
         
         <li className="text-white font-medium hidden px-4 sm:text-xl mt-2 sm:flex w-0 text-[1px] sm:w-[800px] shrink justify-center gap-40">
-          <ul className="hover:text-titleColor shrink hover:text-lime-green duration-300"><a href="https://demo.snapshot.org/#/ecosus.eth">App</a></ul>
+          <ul className="hover:text-titleColor shrink hover:text-lime-green duration-300"><a href="https://snapshot.org/#/mohitthakkar.eth">App</a></ul>
           <ul className="hover:text-titleColor shrink hover:text-lime-green duration-300"><a href="#mint">Buy GREEN</a></ul>
         </li>
         
